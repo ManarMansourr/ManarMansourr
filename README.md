@@ -1,16 +1,13 @@
-```md
 <h1 align="center">Hi 👋, I'm Manar Mansour</h1>
 
-<h3 align="center">
-  Computer Science Student | Problem Solver | Aspiring Software Developer
-</h3>
+<h3 align="center">Computer Science Student | Problem Solver | Aspiring Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manar-mansour-9859513a0/">
     <img src="https://img.shields.io/badge/LinkedIn-Manar%20Mansour-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/BaaR">
-    <img src="https://img.shields.io/badge/Codeforces-BaaR-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-BaaR-6A5ACD?style=for-the-badge" />
   </a>
 </p>
 
@@ -49,7 +46,7 @@ I enjoy solving programming problems and improving my algorithmic thinking.
 
 <p align="center">
   <a href="https://codeforces.com/profile/BaaR">
-    <img src="https://img.shields.io/badge/Codeforces-BaaR-6A5ACD?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-BaaR-6A5ACD?style=for-the-badge" />
   </a>
 </p>
 
@@ -78,4 +75,3 @@ I enjoy solving programming problems and improving my algorithmic thinking.
 <p align="center">
   ✨ Thanks for visiting my profile!
 </p>
-```
